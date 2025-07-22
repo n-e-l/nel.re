@@ -20,8 +20,6 @@ I create algorithmic art, drawings and experiments in [art](./art).
 ./[bsky](https://bsky.app/profile/nel.re)  
 ./[instagram](https://www.instagram.com/dodecatatonic/)  
 
-## Demogroup
-
 <div id="stargaze-webring">
     <script type="text/javascript" src="https://stargaze.group/webring/onionring-variables.js"></script>
     <script type="text/javascript" src="https://stargaze.group/webring/onionring-widget.js", charset="utf-8"></script>
