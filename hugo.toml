@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'Nel.re'
 theme = ["hugo-video", "nel-theme", "hugo-easy-gallery" ]
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menu]
 
   [[menus.main]]
