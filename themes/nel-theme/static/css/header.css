@@ -43,3 +43,15 @@
 	max-height: 5em;
 	display: flex;
 }
+
+@media (max-width: 700px) {
+	.nomarker {
+	  width: 100%;
+	}
+}
+
+@media (min-width: 700px) {
+	.nomarker {
+	  width: auto;
+	}
+}
