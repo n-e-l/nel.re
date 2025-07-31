@@ -7,17 +7,17 @@ description: ""
 # Hiya
 I'm Nel(lie)/Lauda!
   
-Here you'll find dreams of pocket dimensions, alternate universes, abstractions, art and more.
+Here you'll find queerness, dreams of pocket dimensions, raw ideas, alternate universes, abstractions, art and expression.
 
 I create algorithmic art, drawings and experiments in [art](./art).  
 Streams of consciousness and poetry in [blog](./blog).  
-Extensive projects in [projects](./projects).
+Extensive (coding) projects in [projects](./projects).
 
 ## Links
 
 ./[github](https://github.com/n-e-l)  
 ./[discord](https://discordapp.com/users/228235814985924608)  
-./[email](angelo.carly@proton.me)  
+./[email](lauda@nel.re)  
 ./[bsky](https://bsky.app/profile/nel.re)  
 ./[instagram](https://www.instagram.com/dodecatatonic/)  
 
