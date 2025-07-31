@@ -7,5 +7,5 @@ summary = 'Hexagonal chaos'
 
 [Github repo](https://github.com/angelocarly/cinderengine)
 
-{{< load-photoswipe >}}
-{{< gallery dir="art/hexagons" width="1000px" />}}
+{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="color" embedPreview=true loadJQuery=true >}}
+

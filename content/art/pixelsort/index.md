@@ -5,5 +5,5 @@ menu = 'art'
 summary = 'Pixelsort photography'
 +++
 
-{{< load-photoswipe >}}
-{{< gallery dir="art/pixelsort" width="1000px" />}}
+{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="color" embedPreview=true loadJQuery=true >}}
+
