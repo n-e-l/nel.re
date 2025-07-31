@@ -4,13 +4,14 @@ date: 2023-11-29T09:26:20+02:00
 description: ""
 ---
 
-# Hiya, I'm Nel(lie)/Lauda!
+# Hiya
+I'm Nel(lie)/Lauda!
   
 Here you'll find dreams of pocket dimensions, alternate universes, abstractions, art and more.
 
 I create algorithmic art, drawings and experiments in [art](./art).  
-[Streams of consciousness](./blog).  
-[Projects extending in code](./projects).
+Streams of consciousness and poetry in [blog](./blog).  
+Extensive projects in [projects](./projects).
 
 ## Links
 
