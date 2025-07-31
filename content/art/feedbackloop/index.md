@@ -8,4 +8,4 @@ summary = 'Art with my feedbackloop drawer software'
 Art I created using my compute shader drawing software.  
 Code available in [this Github repository](https://github.com/angelocarly/feedbackloop).
 
-{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="color" embedPreview=true loadJQuery=true >}}
+{{< gallery match="images/*" sortOrder="desc" rowHeight="350" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="color" embedPreview=true loadJQuery=true >}}
