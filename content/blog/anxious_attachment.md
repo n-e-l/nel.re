@@ -3,11 +3,11 @@ title = 'Anxious Attachment'
 date = 2025-08-01T14:52:06+02:00
 +++
 
-**Not close enough. Not close enough.**
+*Not close enough. Not close enough.*
 
 When I see you I can breathe, just barely.
 
-**Not close enough. Not close enough.**
+*Not close enough. Not close enough.*
 
 Am I supposed to miss you this much? I still barely know you.
 
