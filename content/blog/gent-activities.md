@@ -7,7 +7,9 @@ A small collection of interesting platforms for events in Ghent.
 
 ## General
 - [Rendez-nous](https://www.rendeznous.be) - Public activity board
-- [Broei](https://www.broei.be/agenda) - Workshops and queer parties
+- [Broei](https://www.broei.be/agenda) - Workshops / Queer creating and experimenting
+- [Rokko](https://www.rokko.be/nl/service/evenementen/) - Queer bookstore
+- [Geheel de uwe](https://www.geheeldeuwe.be/agenda) - Open Mic / Poetry / Debate
 
 ## Music
 - [Chinastraat](https://chinastraat.be/agenda) - Raves
