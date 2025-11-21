@@ -1,8 +1,0 @@
-baseURL = 'https://nel.re/'
-languageCode = 'en-uk'
-title = 'Nel'
-
-[module]
-  [module.hugoVersion]
-    extended = false
-    min = "0.116.0"

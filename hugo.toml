@@ -1,7 +1,7 @@
 baseURL = 'https://nel.re/'
 languageCode = 'en-us'
 title = 'Nel.re'
-theme = ["hugo-video", "nel-theme" ]
+theme = ["hugo-video"]
 
 [module]
   [[module.imports]]
@@ -27,7 +27,7 @@ theme = ["hugo-video", "nel-theme" ]
     weight = 30
 
   [[menus.main]]
-    identifier = "Projects"
-    name = 'Projects'
-    pageRef = '/projects'
+    identifier = "Devlog"
+    name = 'Devlog'
+    pageRef = '/devlog'
     weight = 40
