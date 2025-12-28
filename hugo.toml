@@ -31,3 +31,8 @@ theme = ["hugo-video"]
     name = 'Devlog'
     pageRef = '/devlog'
     weight = 40
+
+[server]
+	headers = [
+	  ["Access-Control-Allow-Origin", "https://n-e-l.github.io"]
+	]
