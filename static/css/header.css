@@ -3,6 +3,9 @@
 .main-nav {
     font-family: var(--font-monospace);
     display: flex;
+    font-size: 1.15rem;
+    line-height: 1.5rem;
+	font-weight: 400;
 }
 
 .main-nav .page__logo-inner {
