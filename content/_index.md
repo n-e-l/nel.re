@@ -5,7 +5,7 @@ description: ""
 ---
 
 # Hiya
-I'm Nel(lie)/Lauda!
+I'm **Nel** / **Nellie** / **Lauda**!
   
 Here you'll find queerness, dreams of pocket dimensions, raw ideas, alternate universes, abstractions, art and expression.
 
