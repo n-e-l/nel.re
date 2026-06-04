@@ -4,7 +4,6 @@ date: 2023-11-29T09:26:20+02:00
 description: ""
 ---
 
-# Hiya
 I'm **Nel** / **Nellie** / **Lauda**!
   
 Here you'll find queerness, dreams of pocket dimensions, raw ideas, alternate universes, abstractions, art and expression.
