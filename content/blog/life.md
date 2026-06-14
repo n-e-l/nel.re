@@ -1,7 +1,7 @@
 +++
 title = 'Life'
 date = 2025-05-09T21:42:24+02:00
-draft = false
+draft = true
 +++
 
 A formula.  

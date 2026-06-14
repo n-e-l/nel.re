@@ -1,6 +1,7 @@
 +++
 title = 'Boredom'
 date = 2024-04-14T19:57:06+02:00
+draft = true
 +++
 
 ## Well, so here's a fragment.. [share scrappy fiddles my friend](https://mas.to/@TodePond/111246250052172614)

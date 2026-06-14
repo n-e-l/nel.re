@@ -1,7 +1,7 @@
 +++
 title = 'Functional programming'
 date = 2024-05-03T22:58:45+02:00
-draft = false
+draft = true
 +++
 
 What is functional programming?

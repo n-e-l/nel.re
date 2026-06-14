@@ -1,6 +1,7 @@
 +++
 title = 'Activities in Ghent'
 date = 2025-11-09T09:09:55+01:00
+draft = true
 +++
 
 A small collection of interesting platforms for events in Ghent.

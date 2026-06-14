@@ -3,6 +3,7 @@ title = 'Metaphysics'
 date = 2024-03-01T10:32:00+01:00
 menu = 'blog'
 summary = 'What is?'
+draft = true
 +++
 
 - Everything is math.
